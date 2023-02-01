@@ -1,2 +1,2 @@
 # hello-world
-Repository made for Intro to Comp Sci class
+I am cole hilliard. I do a lot of stuff. Like breathe. Eat. Sleep. **I am a Bengal Lancer.**
